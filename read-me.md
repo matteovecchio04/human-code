@@ -4,3 +4,12 @@ Che barba, che noia, che noia, che barba!
 Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è difficile mettere d’accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce!
 **
 
+- Siamo seduti sul divano
+- Prendo il telecomando in mano
+- Accendo la tv
+- Apro Netflix
+- Seleziono il profilo
+- Scrollo in basso nell'homepage
+- Propongo cosa vedere
+- Inizio la riproduzione
+
